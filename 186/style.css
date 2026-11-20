@@ -1,0 +1,29 @@
+#elem{
+    top: 100px;
+    left: 100px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    background-color: red;
+    z-index: 2;
+}
+#elem1{
+    z-index: 3;
+    top: 130px;
+    left: 130px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    background-color: blue;
+}
+
+#elem2{
+    z-index: 2;
+    top: 160px;
+    left: 160px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    background-color: green;
+}
+
